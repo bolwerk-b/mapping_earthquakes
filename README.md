@@ -17,7 +17,11 @@ To interact with the maps API the user have to visit [mapbox.com](https://www.ma
 The deployed webpage is accessible at [https://bolwerk-b.github.io/Mapping_Earthquakes](https://bolwerk-b.github.io/Mapping_Earthquakes).
 
 ### Interactive Maps Views
+#### Deliverable 1
 ![Deliverables1](D1.png)
+#### Deliverable 2
 ![Deliverables2](D2.png)
+#### Satellite View
 ![Satellite view](satellite.png)
+#### Dark
 ![Dark](dark.png)
