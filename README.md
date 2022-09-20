@@ -14,7 +14,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 To interact with the maps API the user have to visit [mapbox.com](https://www.mapbox.com/), create a Mapbox account and retrieve the access token.
 
 ### Link to Interactive Maps webpage
-The deployed webpage is accessible at [https://cedoula.github.io/Mapping_Earthquakes](https://bolwerk-b.github.io/Mapping_Earthquakes).
+The deployed webpage is accessible at [https://bolwerk-b.github.io/Mapping_Earthquakes](https://bolwerk-b.github.io/Mapping_Earthquakes).
 
 ### Interactive Maps Views
 ![Deliverables1](D1.png)
