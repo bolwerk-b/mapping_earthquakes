@@ -17,7 +17,7 @@ To interact with the maps API the user have to visit [mapbox.com](https://www.ma
 The deployed webpage is accessible at [https://cedoula.github.io/Mapping_Earthquakes](https://bolwerk-b.github.io/Mapping_Earthquakes).
 
 ### Interactive Maps Views
-[Deliverables1](D1.png)
-[Deliverables2](D2.png)
-[Satellite view](satellite.png)
-[Dark](dark.png)
+![Deliverables1](D1.png)
+![Deliverables2](D2.png)
+![Satellite view](satellite.png)
+![Dark](dark.png)
